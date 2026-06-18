@@ -1,0 +1,4 @@
+def section(title: str) -> None:
+#     print("\n" + "=" * 72)
+#     print(title)
+#     print("=" * 72)
